@@ -64,5 +64,5 @@ This project is a web-based application built using Streamlit and FastAPI, integ
 - `requirements.txt`: List of dependencies required to run the project.
 
 ## Author  
-**D. Sai Hemanth Varma**  
-- [LinkedIn Profile](https://www.linkedin.com/in/danthuluri-saihemanth-2332a1252/)
+**Sudharshan Reddy**  
+- [LinkedIn Profile](https://www.linkedin.com/in/sudharshan-reddy-75511a251/)
